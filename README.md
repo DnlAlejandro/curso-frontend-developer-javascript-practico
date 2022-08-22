@@ -1,5 +1,5 @@
 # YardSale
-Static responsive website themed to web comerce.
+Static responsive website themed to web comerce.<br>
 [Check it out on the web](https://dnlalejandro.github.io/curso-frontend-developer-javascript-practico/ "Check it out on the web")
 ### Mobile
 [![127-i-Phone-X-2022-8-21-at-10-55-10-P-M.jpg](https://i.postimg.cc/8Pq8S5hG/127-i-Phone-X-2022-8-21-at-10-55-10-P-M.jpg)](https://postimg.cc/kBFYN71Y)
